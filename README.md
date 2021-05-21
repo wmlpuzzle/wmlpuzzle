@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm wmlpuzzle</h1>
 <h3 align="center">A passionate java developer from China</h3>
 
+![](https://visitor-badge.glitch.me/badge?page_id=wmlpuzzle.readme)
+
 - 📝 I regularly write articles on [http://doc.pekst.com](http://doc.pekst.com)
 
 
