@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm wmlpuzzle</h1>
-<h3 align="center">A passionate java developer from China</h3>
+<h3 align="center">A passionate java developer from China![](https://visitor-badge.glitch.me/badge?page_id=wmlpuzzle.readme)</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=wmlpuzzle.readme)
-![](http://antzuhl.cn:4000/get/@wmlpuzzle.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=wmlpuzzle&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 
 - 📝 I regularly write articles on [http://doc.pekst.com](http://doc.pekst.com)
 
