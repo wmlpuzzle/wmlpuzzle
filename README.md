@@ -4,7 +4,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=wmlpuzzle&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 
-- 📝 I regularly write articles on [http://doc.pekst.com](http://doc.pekst.com)
+- 📝 I regularly write articles on [http://jojo.pub](http://doc.pekst.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
